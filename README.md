@@ -1,4 +1,4 @@
-**Credit Risk Classification**
+#Credit Risk Classification
 Overview
 In this project, the goal is to build a machine learning model to predict the creditworthiness of borrowers using historical lending data from a peer-to-peer lending service. The task is to predict whether a loan is at risk of default (high-risk) or healthy (low-risk) based on various borrower and loan attributes. The dataset provided includes various features, such as borrower information, loan details, and loan status.
 
